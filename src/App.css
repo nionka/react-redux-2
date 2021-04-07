@@ -16,3 +16,11 @@ li button {
 li {
   margin-bottom: 10px;
 }
+
+.filter {
+  margin-bottom: 10px;
+}
+
+.filter span {
+  margin-left: 7px;
+}
